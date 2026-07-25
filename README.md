@@ -1,6 +1,9 @@
 
 ☕️ Coffee Sales Analysis | SQL Data Analytics Project
 
+My Tableau Data Visualization: Coffee Sales Dashboard: 
+https://public.tableau.com/views/CoffeeSalesDashboard_17800697210440/SalesDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 📌 Project Overview
 This project analyzes a coffee sales dataset using SQL to uncover business insights, sales performance, customer behavior, and growth trends.
 The goal is to simulate a real-world data analyst workflow, transforming raw transactional data into meaningful insights that support decision-making.
@@ -100,5 +103,3 @@ Data → Analysis → Insights → Recommendations
 👤 Author
 Mohamed Asskour 
 Aspiring Data Analyst
-
-
