@@ -100,6 +100,4 @@ This project demonstrates how SQL can be used not only for querying data, but fo
 It reflects a real-world analytics workflow:
 Data → Analysis → Insights → Recommendations
 
-👤 Author
-Mohamed Asskour 
-Aspiring Data Analyst
+Made with ♡ by Asskour Analyst
